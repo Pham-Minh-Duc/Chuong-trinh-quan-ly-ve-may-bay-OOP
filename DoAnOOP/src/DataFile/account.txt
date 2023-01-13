@@ -1,0 +1,5 @@
+lamvinhhung;123;Admin;
+nguyenphungvinh;123;Customer;
+huynhcongy;123;Customer;
+phamminhduc;123;Customer;Customer;
+dothedung;123;Customer;
